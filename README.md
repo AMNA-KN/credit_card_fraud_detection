@@ -27,5 +27,4 @@ These results demonstrate the effectiveness of the implemented algorithms in det
 
 - Enhance the feature engineering process to capture additionalpatterns of fraudulent behavior
 
-- Explore real-time fraud detection capabilities
-  
+- Explore real-time fraud detection capabilities  ```^_^```
